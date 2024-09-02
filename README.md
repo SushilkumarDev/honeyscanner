@@ -1,28 +1,8 @@
-<div align="center">
-    <img src="./images/honeyscanner_logo.png" alt="Honeyscanner logo" width="400">
-</div>
 
-<br />
-
-<div align="left">
-    <img src="./images/GSoC-Horizontal.png" alt="GSoC logo" width="400">
-</div>
-
-This project was supported and funded by Google Summer of Code 2023. For more information about Honeyscanner in GSoC2023 click [here](https://summerofcode.withgoogle.com/archive/2023/projects/6oyTxlUo).
-
-<br />
-
-<div align="left">
-    <img src="./images/blackhat_logo.png" alt="Blackhat logo" width="400">
-</div>
-
-This project was presented at BlackHat Europe 2023 in London. For more information about Honeyscanner in BlackHat Europe click [here](https://www.blackhat.com/eu-23/arsenal/schedule/index.html#honeyscanner-a-vulnerability-analyzer-for-honeypots-35048).
 # Honeyscanner - A vulnerability analyzer for Honeypots
 
 [![Python 3.10.12](https://img.shields.io/badge/python-3.10.12-blue.svg)](https://www.python.org/downloads/release/python-3912/)
 [![Pipenv 2023.12.1](https://img.shields.io/badge/pipenv-2023.12.1-brightgreen.svg)](https://pipenv.pypa.io/)
-[![GitHub license](https://img.shields.io/github/license/honeynet/honeyscanner.svg)](https://github.com/honeynet/honeyscanner/blob/main/LICENSE)
-[![Github Issues](https://img.shields.io/github/issues/honeynet/honeyscanner.svg)](https://github.com/honeynet/honeyscanner/issues)
 
 Honeyscanner is a vulnerability analyzer for honeypots designed to automatically attack a given honeypot, in order to determine if the honeypot is vulnerable to specific types of cyber attacks. It uses a variety of attacks, ranging from exploiting vulnerable software libraries to DoS, and fuzzing attacks. The analyzer then provides an evaluation report to the honeypot administrator, offering advice on how to enhance the security of the honeypot. Targeted toward security enthusiasts, open-source communities, and companies, Honeyscanner provides a much needed safety check for various honeypots.
 
@@ -61,7 +41,7 @@ The following instructions will guide you through the process of setting up Hone
 1. Download the Honeyscanner source code from GitHub. Open a tarminal and introduce the following command.
 
     ```bash
-    git clone https://github.com/honeynet/honeyscanner.git
+    git clone https://github.com/SushilkumarDev/honeyscanner.git
     ```
 
 2. Navigate to the Honeyscanner's folder, install the required Python packages and activate the virtual environment.
@@ -112,7 +92,7 @@ For information on Contributors and How to contribute see our [Contributors file
 
 ## Versioning
 
-The [SemVer](http://semver.org/spec/v2.0.0.html) is used for versioning. For the latest available version of Honeyscanner, see page [releases](https://github.com/honeynet/honeyscanner/releases).
+The [SemVer](http://semver.org/spec/v2.0.0.html) is used for versioning. For the latest available version of Honeyscanner, see page [releases](https://github.com/SushilkumarDev).
 
 ## Release History
 
@@ -120,7 +100,7 @@ Honeyscanner does not have any release yet.
 
 ## Contact
 
-Please use [Github issues](https://github.com/honeynet/honeyscanner/issues) to report any issues or for questions.
+Please use [Github issues](https://github.com/SushilkumarDev) to report any issues or for questions.
 
 ## FAQ
 
