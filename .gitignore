@@ -1,0 +1,35 @@
+# .gitignore
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+*.egg-info/
+dist/
+build/
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+.vscode/
+.zed/
+*.swp
+*.swo
+*.swn
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# misc
+*.db
+*.db-journal
+*.json
+*.txt
